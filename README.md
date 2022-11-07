@@ -16,7 +16,7 @@
 <a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 🔥𝐆𝐑𝐔𝐏𝐎 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 𝐒𝐎𝐏𝐎𝐑𝐓𝐄`
+### `—◉ ⚡𝐆𝐑𝐔𝐏𝐎 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 𝐒𝐎𝐏𝐎𝐑𝐓𝐄🌀`
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
@@ -26,22 +26,19 @@
 
 ### `—◉ ❤️BOTS OFICIALES`
 
-<a href="http://wa.me/573122695406" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/en desarrollo" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="http://wa.me/5493534267295" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.2️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="http://wa.me/51998364160" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.3️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
-### `—◉ 📦 𝐇𝐎𝐓𝐒 𝐏𝐀𝐑𝐀 𝐓𝐄𝐍𝐄𝐑 𝐄𝐋 𝐁𝐎𝐓 𝟐𝟒/𝟕`
+### `—◉ 💦 𝐇𝐎𝐓𝐒 𝐏𝐀𝐑𝐀 𝐓𝐄𝐍𝐄𝐑 𝐄𝐋 𝐁𝐎𝐓 𝟐𝟒/𝟕 💦`
 
 <a href="https://dash.boxmineworld.com/login" target="_blank"> <img src="https://img.shields.io/badge/-Boxmineworld-%23E4405F?style=for-the-badge&logo=Boxmineworld&logoColor=black" target="_blank"></a> <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/Boxmine.png" height="30px">
 <p align="hihg">   
 <a href="https://www.mediafire.com/file/nbe32g0kjl99yul/Termux_0.119.1.apk/file
 " target="_blank"> <img src="https://img.shields.io/badge/-DESCARGAR_TERMUX-%23E4405F?style=for-the-badge&logo=DESCARGAR_TERMUX&logoColor=black" target="_blank"></a> <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px">
 
-### `—◉ ⚜️ LETRA DEL BOT ⚜️`
+### `—◉ ⚡ LETRA DEL BOT ⚡`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
   
 ### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
