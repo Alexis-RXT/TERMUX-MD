@@ -15,8 +15,8 @@
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
 <a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/ALEXIS_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5493813403468" target="blank"><img src="https://img.shields.io/badge/Armando_OFC_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595974242012" target="blank"><img src="https://img.shields.io/badge/Damian_OFC_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5493813403468" target="blank"><img src="https://img.shields.io/badge/Armando_RXT_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595974242012" target="blank"><img src="https://img.shields.io/badge/Damian_MD_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -63,8 +63,8 @@
 ### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
--
+
+
 
 cd && termux-setup-storage
 ```
