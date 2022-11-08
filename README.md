@@ -5,7 +5,8 @@
 
 
 <p align="center">
-<https://github.com/gzomer/alex-bot/blob/master/assets/readme_images/intro.png
+<# Alex - Your personal assistant at work
+![](https://github.com/gzomer/alex-bot/blob/master/assets/readme_images/intro.png)
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
