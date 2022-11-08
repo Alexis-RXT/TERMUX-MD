@@ -21,6 +21,8 @@
 [![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
+### `—◉ 💦𝑮𝑹𝑼𝑷𝑶𝑺 𝑶𝑭𝑰𝑪𝑰𝑨𝑳𝑬𝑺💧`
+
 ---------
 > GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
 
