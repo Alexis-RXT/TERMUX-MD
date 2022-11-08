@@ -1,8 +1,8 @@
 {
-    "name": "DORRAT-BOT-MD",
+    "name": "ALEX-BOT-MD",
     "version": "1.0.0",
     "description": "Subscribete al canal de YT Diegogameplays82",
-    "main": "dorrat-inicio.js",
+    "main": "Alex-inicio.js",
     "type": "module",
     "directories": {
      "lib": "lib",
@@ -19,7 +19,7 @@
 
     "homepage": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD",
     "author": {
-        "name": "DIEGO-OFC"
+        "name": "ALEXIS-OFC"
     },
 
     "repository": {
