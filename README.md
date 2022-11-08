@@ -66,6 +66,7 @@
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
+
 cd && termux-setup-storage
 ```
 
@@ -78,7 +79,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
+git clone https://github.com/Alexis-RXT/TERMUX-MD
 ```
 
 ```bash
