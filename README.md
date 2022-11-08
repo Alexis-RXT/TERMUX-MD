@@ -106,9 +106,13 @@ npm start
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
 ```bash
+
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+
 > cd 
+
 > cd Mystic-termux
+
 > npm start
 ```
 
