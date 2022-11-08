@@ -64,8 +64,7 @@
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-```bash
+-
 
 cd && termux-setup-storage
 ```
