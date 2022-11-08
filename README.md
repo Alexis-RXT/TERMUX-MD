@@ -5,7 +5,6 @@
 
 
 <p align="center">
- [IMG-20221108-WA0397.jpg…]
  Alexis
 
 
