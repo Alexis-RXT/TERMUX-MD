@@ -4,7 +4,7 @@
 </p> 
 
 
-<p align="center"> ![Uploading IMG-20221108-WA0397.jpg…]()
+<p align="center"> IMG-20221108-WA0397.jpg…]()
  Alexis
 
 
