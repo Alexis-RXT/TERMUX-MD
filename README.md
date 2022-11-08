@@ -5,8 +5,7 @@
 
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/alex-imagen.jpg" alt="ALEX-BOT-MD" width="900"/>
-</p>
+<https://github.com/gzomer/alex-bot/blob/master/assets/readme_images/intro.png
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
