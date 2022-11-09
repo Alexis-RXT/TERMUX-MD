@@ -1,5 +1,5 @@
 {
-    "name": "ALEX-BOT-MD",
+    "name": "MAX-BOT-MD",
     "version": "1.0.0",
     "description": "Subscribete al canal de YT Diegogameplays82",
     "main": "Alex-inicio.js",
@@ -12,9 +12,9 @@
     },
 
     "scripts": {
-        "start": "node dorrat-inicio.js",
+        "start": "node Alex-inicio.js",
         "test": "node test.js",
-        "test2": "nodemon dorrat-inicio.js"
+        "test2": "nodemon Alex-inicio.js"
     },
 
     "homepage": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD",
