@@ -28,10 +28,10 @@
 ### `—◉ 💦𝑮𝑹𝑼𝑷𝑶𝑺 𝑶𝑭𝑰𝑪𝑰𝑨𝑳𝑬𝑺💧`
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/G4gS2laySt4AgJUIQIpnkg)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/FLRXWxEoS5nCn2yZxgPgVS)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/G4gS2laySt4AgJUIQIpnkg)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/GKAQf8bY1Vg5oNe7aVqMMx)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/G4gS2laySt4AgJUIQIpnkg)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
@@ -125,7 +125,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 > cd 
 
-> cd Mystic-termux
+> cd TERMUX-MD
 
 > npm start
 ```
