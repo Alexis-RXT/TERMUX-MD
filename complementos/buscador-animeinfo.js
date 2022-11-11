@@ -2,7 +2,7 @@ import translate from '@vitalets/google-translate-api'
 import fetch from 'node-fetch'
 import cheerio from 'cheerio'
 let handler = async (m, { conn, text }) => {
-if (!text) throw `*[❗𝐄𝐑𝐑𝐎𝐑❗] 𝐈𝐍𝐆𝐑𝐄𝐒𝐄 𝐄𝐋 𝐍𝐎𝐌𝐁𝐑𝐄 𝐃𝐄𝐋 𝐀𝐋𝐆𝐔𝐍 𝐀𝐍𝐈𝐌𝐃 𝐐𝐔𝐄 𝐃𝐄𝐒𝐄𝐄 𝐁𝐔𝐒𝐂𝐀𝐑*`
+if (!text) throw `*[❗𝐄𝐑𝐑𝐎𝐑❗] 𝐈𝐍𝐆𝐑𝐄𝐒𝐄 𝐄𝐋 𝐍𝐎𝐌𝐁𝐑𝐄 𝐃𝐄𝐋 𝐀𝐋𝐆𝐔𝐍 𝐀𝐍𝐈𝐌𝐄 𝐐𝐔𝐄 𝐃𝐄𝐒𝐄𝐄 𝐁𝐔𝐒𝐂𝐀𝐑*`
 try {
 let res = await fetch(global.API('https://api.jikan.moe', '/v3/search/anime', { q: text }))
 if (!res.ok) throw await res.text()
